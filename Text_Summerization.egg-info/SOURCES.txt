@@ -1,0 +1,11 @@
+setup.py
+Text_Summerization.egg-info/PKG-INFO
+Text_Summerization.egg-info/SOURCES.txt
+Text_Summerization.egg-info/dependency_links.txt
+Text_Summerization.egg-info/requires.txt
+Text_Summerization.egg-info/top_level.txt
+src/__init__.py
+src/text_summary/__init__.py
+src/text_summary/logger.py
+src/text_summary/text_summary.py
+src/text_summary/utils.py
